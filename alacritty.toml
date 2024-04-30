@@ -1,0 +1,34 @@
+
+import = ["~/.config/alacritty/catppuccin/catppuccin-mocha.toml"]
+
+
+live_config_reload = true
+
+
+[env]
+TERM = "xterm-256color"
+
+[window]
+dynamic_padding = true
+opacity = 0.75
+
+[font]
+size = 20.0
+
+[font.bold]
+family = "FantasqueSansM Nerd Font Mono"
+style = "Bold"
+
+[font.bold_italic]
+family = "FantasqueSansM Nerd Font Mono"
+style = "Bold Italic"
+
+[font.italic]
+family = "FantasqueSansM Nerd Font Mono"
+style = "Regular Italic"
+
+
+[font.normal]
+family = "FantasqueSansM Nerd Font Mono"
+style = "Regular"
+
